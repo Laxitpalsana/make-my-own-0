@@ -1,0 +1,13 @@
+FRUIT NINJA VR
+In this game we will make the fruits disappear when we click them and it increases the score.
+If we click on the bomb among the fruits we will lose a heart among 3 hearts.
+we will keep a scoreboard at the left hand side of the screen and 3 hearts on the right hand side.
+if we lose all three hearts ,the game shows GAME OVER!! and the final score.
+the home screen will show (YOUR NAME________)and (PLAY) options.
+we will have 3 stages.start stage(before we hit play),play stage(in which we actually play)and end stage(it shows return to main menu and score with GAME OVER!! sweetalert)
+GLTF MODELS REQUIRED--
+Apple fruit model
+Banana fruit model
+Watermelon fruit model
+Mango fruit model
+Bomb model
